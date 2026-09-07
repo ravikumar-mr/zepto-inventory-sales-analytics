@@ -3,7 +3,13 @@
 An interactive Power BI dashboard designed to analyze Zepto-style inventory, sales, and delivery data and convert raw operational data into actionable business insights.
 
 ## 📊 Dashboard Pages
-<img width="1917" height="967" alt="4" src="https://github.com/user-attachments/assets/6fd71c07-3d37-4559-83aa-a0e59e39ee66" />
+<img width="1907" height="980" alt="1" src="https://github.com/user-attachments/assets/b0058773-96ca-4603-937a-d60c9234c17e" />
+<img width="1916" height="972" alt="2" src="https://github.com/user-attachments/assets/95495f2b-21bb-4994-a09f-c2911c002cc1" />
+<img width="1917" height="976" alt="3" src="https://github.com/user-attachments/assets/7219066a-0917-4cba-80a9-4ace5d7be1af" />
+<img width="1917" height="967" alt="4" src="https://github.com/user-attachments/assets/a1734c4d-7c30-419d-b967-b34268d5e8a6" />
+
+
+
 
 ### 🏠 Home
 Project overview and navigation to different analytics modules.
